@@ -13,5 +13,6 @@ You can click the Preview link to take a look at your changes.
 <a href="java.com" target="_blank"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-
+<a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" alt="linux" width="40" height="40"/> </a> 
+https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg
 

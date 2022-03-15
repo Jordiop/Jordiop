@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jordiop
 - 👀 I’m interested in technology
-- 🌱 I’m currently learning programming
+- 🌱 I’m currently learning programming and web development
 - 📫 How to reach me jordiosarenkhoe@outlook.es
 
 <!---

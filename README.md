@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Jordi</h1>
-<h3>fullstack student</h3>
+<h3></h3>
 
 - Hi, I'm currently working on **GAI - Gestión Almacén Interactiva**
 

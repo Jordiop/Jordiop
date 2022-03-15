@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **programming**
 
-- 👨‍💻 All of my projects are available at [github.com/jordiop](profile)
+- 👨‍💻 All of my projects are available at [github.com/Jordiop](profile)
 
 - 📫 How to reach me **jordiosarenkhoe@outlook.es**
 

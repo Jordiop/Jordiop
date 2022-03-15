@@ -3,7 +3,7 @@
 
 - Hi, I'm currently working on **GAI - Gestión Almacén Interactiva**
 
-- 🌱 I’m currently learning **programming**
+- 🌱 I’m currently learning **Desarrollo de Aplicaciones Web**
 
 - 👨‍💻 All of my projects are available at [github.com/jordiop](github.com/jordiop)
 

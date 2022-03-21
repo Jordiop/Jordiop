@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Desarrollo de Aplicaciones Web**
 
-- 👨‍💻 All of my projects are available at [github.com/jordiop](github.com/jordiop)
+- 👨‍💻 All of my projects are available at [github.com/jordiop](github.com/Jordiop)
 
 - 📫 How to reach me **jordiosarenkhoe@outlook.es**
 

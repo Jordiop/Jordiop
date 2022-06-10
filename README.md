@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Jordi</h1>
 <h3></h3>
 
-- Hi, I'm currently working on Who knows?
+- Hi, I'm currently working on looking for new peojects
 
 - 🌱 I’m currently learning **Desarrollo de Aplicaciones Web**
 

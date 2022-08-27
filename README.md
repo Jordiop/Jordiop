@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/jordiop26" target="blank"><img src="https://img.shields.io/twitter/follow/jordiop26?logo=twitter&style=for-the-badge" alt="jordiop26" /></a> </p>
 
-- 🔭 I’m currently working on **random stuff**
+- 🔭 I’m currently working on doing Big Macs
 
 - 🌱 I’m currently learning **Desarrollo Aplicaciones Web**
 

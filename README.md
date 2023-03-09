@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jordiop" alt="jordiop" /></a> </p>
 
-- 🔭 I’m currently working on **studying** and **buging**
+- 🔭 I’m currently working on **studying** and **bugging**
 
 - 🌱 I’m currently learning **Desarrollo de Aplicaciones Web**
 

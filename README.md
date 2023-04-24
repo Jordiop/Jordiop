@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Jordi</h1>
-## 💫 About Me ##
+## 💫 About Me 
 🔭 I’m currently working on GAI - Gestión Almacén Interactiva<br>
 🌱 I’m currently learning Desarrollo Aplicaciones Web<br>
 

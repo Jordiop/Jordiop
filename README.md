@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Jordi</h1>
 <h2> 💫 About Me </h2> 
-🔭 I’m currently working on GAI - Gestión Almacén Interactiva<br>
-🌱 I’m currently learning Desarrollo Aplicaciones Web<br>
+🔭 I’m currently working on Osanotes<br>
+🌱 I’m currently learning<br>
 
 
 ## 🌐 Socials:

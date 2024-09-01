@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at my [profile](github.com/jordiop)
 
-- 📝 My website [portfolio](https://jordiop.com)
+- 📝 My website [portfolio](http://jordiop.com)
 
 - 💬 Ask me about **Vue**
 

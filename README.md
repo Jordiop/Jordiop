@@ -19,7 +19,7 @@
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
-
+![Jordiop github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=Jordiop)
 
 ### Frontend  
 <div align="center">  

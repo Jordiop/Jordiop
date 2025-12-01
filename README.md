@@ -2,8 +2,6 @@
 
 ### Frontend developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jordiop&label=Profile views&color=0e75b6&style=flat" alt="Jordiop" /> </p>
-
 - 🔭 I'm currently working on **Weather App made with React Native**
 
 - 📫 How to reach me **jordiosarenkhoe@outlook.es**

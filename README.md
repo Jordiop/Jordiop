@@ -54,7 +54,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> 
     <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> 
 </a> 
-<h4 align="left">Backend / Fullstack frameworks</h4>
+<h4 align="left">Others</h4>
 <a href="https://developer.mozilla.org/en-US/docs/Web/laravel" target="_blank" rel="noreferrer"> 
     <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/> 
 </a> 

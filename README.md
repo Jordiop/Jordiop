@@ -6,8 +6,6 @@
 
 - 📫 How to reach me **jordiosarenkhoe@outlook.es**
 
-- ⚡ Fun fact: I think I'm not funny
-
 - 👨‍💻 All of my projects are available at **[https://jordiop.es](https://jordiop.es)**
 
 <h3 align="left">Languages and Tools:</h3>

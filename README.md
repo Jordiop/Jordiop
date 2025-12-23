@@ -1,6 +1,6 @@
 # Hi 👋, I'm Jordi Osarenkhoe Petro
 
-### Frontend developer
+### Fullstack developer
 
 - 🔭 I'm currently working on **Weather App made with React Native**
 

@@ -9,6 +9,7 @@
 - 👨‍💻 All of my projects are available at **[https://jordiop.es](https://jordiop.es)**
 
 <h3 align="left">Languages and Tools:</h3>
+This is what I mostly use
 <p align="left"> 
 <h4 align="left">Frontend</h4>
 <a href="https://developer.mozilla.org/en-US/docs/Web/nuxtjs" target="_blank" rel="noreferrer"> 

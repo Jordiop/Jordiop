@@ -2,7 +2,7 @@
 
 ### Fullstack developer
 
-- 🔭 I'm currently working on **Weather App made with Flutter and MyMood**
+- 🔭 I'm currently working on a **File explorer**
 
 - 📫 How to reach me **jordiosarenkhoe@outlook.es**
 

@@ -1,85 +1,78 @@
-# Hi 👋, I'm Jordi Osarenkhoe Petro
+<div align="center">
 
-### Fullstack developer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3500&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=720&height=90&lines=Hey%2C+I'm+Jordi+Osarenkhoe+Petro+%F0%9F%91%8B" alt="Jordi Osarenkhoe Petro" />
 
-- 🔭 I'm currently working on a **File explorer**
+<br/>
 
-- 📫 How to reach me **jordiosarenkhoe@outlook.es**
+[![Portfolio](https://img.shields.io/badge/jordiop.es-6366F1?style=flat-square&logo=vercel&logoColor=white&label=portfolio)](https://jordiop.es)
+[![Twitter](https://img.shields.io/badge/@jordiscript-000000?style=flat-square&logo=x&logoColor=white&label=𝕏)](https://twitter.com/jordiscript)
+[![LinkedIn](https://img.shields.io/badge/jordiop-0A66C2?style=flat-square&logo=linkedin&logoColor=white&label=linkedin)](https://linkedin.com/in/jordiop)
 
-- 👨‍💻 All of my projects are available at **[https://jordiop.es](https://jordiop.es)**
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-This is what I mostly use
-<p align="left"> 
-<h4 align="left">Frontend</h4>
-<a href="https://developer.mozilla.org/en-US/docs/Web/nuxtjs" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=nuxtjs" alt="nuxtjs" width="40" height="40"/> 
-</a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/vuejs" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/> 
-</a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/vuetify" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=vuetify" alt="vuetify" width="40" height="40"/> 
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> 
-</a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> 
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/chartjs" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" alt="chartjs" width="40" height="40"/> 
-</a> 
-<h4 align="left">Languages</h4>
-<a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> 
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> 
-</a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> 
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> 
-</a>
-<h4 align="left">Database</h4>
-<a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> 
-</a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> 
-</a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> 
-</a> 
-<h4 align="left">Others</h4>
-<a href="https://developer.mozilla.org/en-US/docs/Web/laravel" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/> 
-</a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/nestjs" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs" width="40" height="40"/> 
-</a> 
-<h4 align="left">Tools</h4>
-<a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> 
-</a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> 
-<img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> 
-</a> 
+---
 
+```typescript
+const jordi = {
+  location : "Palma 🏝️, Illes Balears",
+  role     : "Fullstack Developer @ OmniAccess / Marlink",
+  building : ["web apps", "CLI tools", "the occasional Pokémon team 🎮"],
+  stack    : ["Vue", "Nuxt", "TypeScript", "NestJS", "Python"],
+  learning : "always something",
+  ask_me   : "frontend architecture, API design, or Gen 9 meta",
+};
+```
 
+---
 
+## Tech Stack
 
+**Frontend**
 
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-002E3B?style=flat-square&logo=nuxt.js&logoColor=00DC82)
+![Astro](https://img.shields.io/badge/Astro-0C1222?style=flat-square&logo=astro&logoColor=FDFDFE)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=AEDDFE)
 
+**Backend**
 
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-</p>
+**Data**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/Jordiop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Jordiop" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jordiop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jordiop" height="30" width="40" /></a>
-<a href="https://twitter.com/jordiscript" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jordiscript" height="30" width="40" /></a>
-</p>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+
+**Tooling**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+---
+
+## Projects
+
+| | Project | Stack | About |
+|---|---|---|---|
+| 🌐 | [Portfolio](https://github.com/Jordiop/portfolio) | Vue · Vercel | Personal site & showcase |
+| 🎮 | [Pokémon Team Builder](https://github.com/Jordiop/pokemon-team-builder) | TypeScript | Gen 9 team builder — no cap |
+| ✂️ [WIP] | [Snippet Manager](https://github.com/Jordiop/snippet-manager) | TypeScript | Never lose a useful snippet again |
+| 🧠 | [Mood Tracker](https://github.com/Jordiop/mood-tracker) | Vue | Daily mood journal — because feelings are data |
+| 🎄 | [AdventJS](https://github.com/Jordiop/adventjs) | Astro | Holiday coding challenge solutions |
+| 📃 | [New tab](https://github.com/Jordiop/newtab) | JS | Minimal new tab extension
+
+---
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Jordiop&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" />
+
+</div>
+
+---

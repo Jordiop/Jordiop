@@ -14,12 +14,12 @@
 
 ```typescript
 const jordi = {
-  location : "Palma 🏝️, Illes Balears",
+  location : "Palma, Illes Balears",
   role     : "Fullstack Developer @ OmniAccess / Marlink",
-  building : ["web apps", "CLI tools", "the occasional Pokémon team 🎮"],
+  building : ["random stuff that crosses my mind"],
   stack    : ["Vue", "Nuxt", "TypeScript", "NestJS", "Python"],
-  learning : "always something",
-  ask_me   : "frontend architecture, API design, or Gen 9 meta",
+  learning : "Rust",
+  ask_me   : "frontend architecture, API design, or which car I own",
 };
 ```
 
@@ -53,25 +53,6 @@ const jordi = {
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
----
-
-## Projects
-
-| | Project | Stack | About |
-|---|---|---|---|
-| 🌐 | [Portfolio](https://github.com/Jordiop/portfolio) | Vue · Vercel | Personal site & showcase |
-| 🎮 | [Pokémon Team Builder](https://github.com/Jordiop/pokemon-team-builder) | TypeScript | Gen 9 team builder — no cap |
-| ✂️ [WIP] | [Snippet Manager](https://github.com/Jordiop/snippet-manager) | TypeScript | Never lose a useful snippet again |
-| 🧠 | [Mood Tracker](https://github.com/Jordiop/mood-tracker) | Vue | Daily mood journal — because feelings are data |
-| 🎄 | [AdventJS](https://github.com/Jordiop/adventjs) | Astro | Holiday coding challenge solutions |
-| 📃 | [New tab](https://github.com/Jordiop/newtab) | JS | Minimal new tab extension
-
----
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Jordiop&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" />
 
 </div>
 
